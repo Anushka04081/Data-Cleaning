@@ -1,0 +1,7 @@
+Employee_ID,Name,Department,Salary,Joining_Date
+101, Alice , HR ,60000,2021-01-15
+102,Bob,IT,,2020-03-10
+103, Charlie ,IT,75000,2019-07-23
+104,David, Finance ,50000,
+104,David, Finance ,50000,
+105,Eve,hr,65000,2022-11-01
